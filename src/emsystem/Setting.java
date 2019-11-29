@@ -66,7 +66,6 @@ public class Setting {
 		String settingLoc ="configuration/setting.xml";
 		Document document=getDocument(settingLoc);
 		Element element = document.getDocumentElement();
-		// System.out.println("根元素为:" + element.getTagName());
 		NodeList childList = element.getChildNodes();
 		for (int i = 0; i < childList.getLength(); i++) {
 			Node node = childList.item(i);
