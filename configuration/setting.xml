@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<setting>
+	<databaseUrl>jdbc:postgresql://localhost:5432/gigadb_v3/</databaseUrl>
+	<databaseUserName>gigadb_jesse</databaseUserName>
+	<databasePassword>gigadb2013</databasePassword>
+	<savedir>/Users/xiaosizhe/Desktop/demo/</savedir>
+	<mailto>xiaosizheme@gmail.com, jesse@gigasciencejournal.com</mailto>
+	<link>http://gigadb-staging-jesse.gigatools.net/</link>
+</setting>

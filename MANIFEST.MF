@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: emsystem.emailsystem
+Class-Path: /home/centos/postgresql-9.1-901.jdbc4.jar /home/centos/javax.mail.jar /home/centos/poi-3.17.jar /home/centos/commons-httpClient-3.1.jar /home/centos/commons-io-2.0.1.jar /home/centos/xmlbeans-2.6.0.jar /home/centos/poi-ooxml-schemas-3.17.jar /home/centos/dom4j-1.6.1.jar /home/centos/poi-ooxml-3.17.jar /home/centos/commons-collections-3.2.1.jar /home/centos/commons-collections4-4.1.jar
+
